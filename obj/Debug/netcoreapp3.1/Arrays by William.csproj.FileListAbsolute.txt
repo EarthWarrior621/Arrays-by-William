@@ -1,0 +1,4 @@
+C:\Users\william.garcia\source\repos\Arrays by William\obj\Debug\netcoreapp3.1\Arrays by William.csproj.AssemblyReference.cache
+C:\Users\william.garcia\source\repos\Arrays by William\obj\Debug\netcoreapp3.1\Arrays by William.AssemblyInfoInputs.cache
+C:\Users\william.garcia\source\repos\Arrays by William\obj\Debug\netcoreapp3.1\Arrays by William.AssemblyInfo.cs
+C:\Users\william.garcia\source\repos\Arrays by William\obj\Debug\netcoreapp3.1\Arrays by William.csproj.CoreCompileInputs.cache
